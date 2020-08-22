@@ -36,6 +36,8 @@ We highly recommend that you install both (RStudio won't work without R) and sta
 
 [DataCamp: Free Intro to R](https://www.datacamp.com/courses/free-introduction-to-r) - Basics of R and its data types with 4 hours of video and 62 exercises.
 
+[edX HarvardX's Data Science Professional Certificate] (https://www.edx.org/professional-certificate/harvardx-data-science - Get an introduction to data science and R and receive a professional certificate. 
+
 # Intermediate Guides
 [tidyverse Homepage](https://www.tidyverse.org/) - If you get the basics of importing and visualizing data, the next step is manipulating data in the tidyverse workflow. Fortunately, the makers of tidyverse have consolidated all their packages in one place, along with a "Learn" tab full of great resources.
 
